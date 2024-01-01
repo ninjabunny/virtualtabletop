@@ -4,528 +4,528 @@
     "type": "card",
     "deck": "aab81b",
     "cardType": 900,
-    "z": 4723,
-    "parent": "s2y2"
+    "z": 7753,
+    "parent": "ef97"
   },
   "aab81b-901-1": {
     "id": "aab81b-901-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 901,
-    "z": 4746,
-    "parent": "s2y2"
+    "z": 7743,
+    "parent": "ef97"
   },
   "aab81b-902-1": {
     "id": "aab81b-902-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 902,
-    "z": 4721
+    "z": 7721
   },
   "aab81b-903-1": {
     "id": "aab81b-903-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 903,
-    "z": 4752
+    "z": 7742
   },
   "aab81b-904-1": {
     "id": "aab81b-904-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 904,
-    "z": 4735
+    "z": 7701
   },
   "aab81b-905-1": {
     "id": "aab81b-905-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 905,
-    "z": 4724,
-    "parent": "s2y2"
+    "z": 7732,
+    "parent": "ef97"
   },
   "aab81b-906-1": {
     "id": "aab81b-906-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 906,
-    "z": 4740
+    "z": 7755
   },
   "aab81b-907-1": {
     "id": "aab81b-907-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 907,
-    "z": 4733,
-    "parent": "s2y2"
+    "z": 7727,
+    "parent": "ef97"
   },
   "aab81b-908-1": {
     "id": "aab81b-908-1",
     "type": "card",
-    "parent": "s2y2",
     "deck": "aab81b",
     "cardType": 908,
-    "z": 4775
+    "z": 7759,
+    "parent": "ef97"
   },
   "aab81b-909-1": {
     "id": "aab81b-909-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 909,
-    "z": 4762
+    "z": 7741
   },
   "aab81b-910-1": {
     "id": "aab81b-910-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 910,
-    "z": 4748
+    "z": 7717
   },
   "aab81b-911-1": {
     "id": "aab81b-911-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 911,
-    "z": 4765,
-    "parent": "s2y2"
+    "z": 7745,
+    "parent": "ef97"
   },
   "aab81b-912-1": {
     "id": "aab81b-912-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 912,
-    "z": 4745
+    "z": 7754
   },
   "aab81b-913-1": {
     "id": "aab81b-913-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 913,
-    "z": 4716,
-    "parent": "s2y2"
+    "z": 7715,
+    "parent": "ef97"
   },
   "aab81b-914-1": {
     "id": "aab81b-914-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 914,
-    "z": 4729,
-    "parent": "s2y2"
+    "z": 7707,
+    "parent": "ef97"
   },
   "aab81b-915-1": {
     "id": "aab81b-915-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 915,
-    "z": 4738
+    "z": 7716
   },
   "aab81b-916-1": {
     "id": "aab81b-916-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 916,
-    "z": 4731
+    "z": 7694
   },
   "aab81b-917-1": {
     "id": "aab81b-917-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 917,
-    "z": 4755
+    "z": 7704
   },
   "aab81b-918-1": {
     "id": "aab81b-918-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 918,
-    "z": 4758,
-    "parent": "s2y2"
+    "z": 7706,
+    "parent": "ef97"
   },
   "aab81b-919-1": {
     "id": "aab81b-919-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 919,
-    "z": 4717
+    "z": 7713
   },
   "aab81b-920-1": {
     "id": "aab81b-920-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 920,
-    "z": 4781,
-    "parent": "s2y2"
+    "z": 7724,
+    "parent": "ef97"
   },
   "aab81b-921-1": {
     "id": "aab81b-921-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 921,
-    "z": 4774,
-    "parent": "s2y2"
+    "z": 7700,
+    "parent": "ef97"
   },
   "aab81b-922-1": {
     "id": "aab81b-922-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 922,
-    "z": 4734,
-    "parent": "s2y2"
+    "z": 7748,
+    "parent": "ef97"
   },
   "aab81b-923-1": {
     "id": "aab81b-923-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 923,
-    "z": 4725,
-    "parent": "s2y2"
+    "z": 7720,
+    "parent": "ef97"
   },
   "aab81b-924-1": {
     "id": "aab81b-924-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 924,
-    "z": 4776,
-    "parent": "s2y2"
+    "z": 7708,
+    "parent": "ef97"
   },
   "aab81b-925-1": {
     "id": "aab81b-925-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 925,
-    "z": 4743,
-    "parent": "s2y2"
+    "z": 7712,
+    "parent": "ef97"
   },
   "aab81b-926-1": {
     "id": "aab81b-926-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 926,
-    "z": 4727
+    "z": 7749
   },
   "aab81b-927-1": {
     "id": "aab81b-927-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 927,
-    "z": 4767
+    "z": 7736
   },
   "aab81b-928-1": {
     "id": "aab81b-928-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 928,
-    "z": 4779,
-    "parent": "s2y2"
+    "z": 7697,
+    "parent": "ef97"
   },
   "aab81b-929-1": {
     "id": "aab81b-929-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 929,
-    "z": 4751,
-    "parent": "s2y2"
+    "z": 7746,
+    "parent": "ef97"
   },
   "aab81b-930-1": {
     "id": "aab81b-930-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 930,
-    "z": 4750,
-    "parent": "s2y2"
+    "z": 7747,
+    "parent": "ef97"
   },
   "aab81b-931-1": {
     "id": "aab81b-931-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 931,
-    "z": 4749,
-    "parent": "s2y2"
+    "z": 7751,
+    "parent": "ef97"
   },
   "aab81b-932-1": {
     "id": "aab81b-932-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 932,
-    "z": 4741
+    "z": 7728
   },
   "aab81b-933-1": {
     "id": "aab81b-933-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 933,
-    "z": 4720
+    "z": 7725
   },
   "aab81b-934-1": {
     "id": "aab81b-934-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 934,
-    "z": 4744
+    "z": 7696
   },
   "aab81b-935-1": {
     "id": "aab81b-935-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 935,
-    "z": 4747,
-    "parent": "s2y2"
+    "z": 7702,
+    "parent": "ef97"
   },
   "aab81b-936-1": {
     "id": "aab81b-936-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 936,
-    "z": 4756,
-    "parent": "s2y2"
+    "z": 7714,
+    "parent": "ef97"
   },
   "aab81b-937-1": {
     "id": "aab81b-937-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 937,
-    "z": 4764,
-    "parent": "s2y2"
+    "z": 7729,
+    "parent": "ef97"
   },
   "aab81b-938-1": {
     "id": "aab81b-938-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 938,
-    "z": 4773,
-    "parent": "s2y2"
+    "z": 7750,
+    "parent": "ef97"
   },
   "aab81b-939-1": {
     "id": "aab81b-939-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 939,
-    "z": 4763
+    "z": 7756
   },
   "aab81b-940-1": {
     "id": "aab81b-940-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 940,
-    "z": 4770
+    "z": 7705
   },
   "aab81b-941-1": {
     "id": "aab81b-941-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 941,
-    "z": 4726,
-    "parent": "s2y2"
+    "z": 7752,
+    "parent": "ef97"
   },
   "aab81b-942-1": {
     "id": "aab81b-942-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 942,
-    "z": 4771
+    "z": 7719
   },
   "aab81b-943-1": {
     "id": "aab81b-943-1",
     "type": "card",
-    "parent": "s2y2",
     "deck": "aab81b",
     "cardType": 943,
-    "z": 4780
+    "z": 7734,
+    "parent": "ef97"
   },
   "aab81b-944-1": {
     "id": "aab81b-944-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 944,
-    "z": 4730
+    "z": 7710
   },
   "aab81b-945-1": {
     "id": "aab81b-945-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 945,
-    "z": 4759,
-    "parent": "s2y2"
+    "z": 7718,
+    "parent": "ef97"
   },
   "aab81b-946-1": {
     "id": "aab81b-946-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 946,
-    "z": 4742,
-    "parent": "s2y2"
+    "z": 7758,
+    "parent": "ef97"
   },
   "aab81b-947-1": {
     "id": "aab81b-947-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 947,
-    "z": 4772,
-    "parent": "s2y2"
+    "z": 7739,
+    "parent": "ef97"
   },
   "aab81b-948-1": {
     "id": "aab81b-948-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 948,
-    "z": 4718,
-    "parent": "s2y2"
+    "z": 7711,
+    "parent": "ef97"
   },
   "aab81b-949-1": {
     "id": "aab81b-949-1",
     "type": "card",
-    "parent": "s2y2",
     "deck": "aab81b",
     "cardType": 949,
-    "z": 4778
+    "z": 7740,
+    "parent": "ef97"
   },
   "aab81b-950-1": {
     "id": "aab81b-950-1",
     "type": "card",
-    "parent": "s2y2",
     "deck": "aab81b",
     "cardType": 950,
-    "z": 4777
+    "z": 7731,
+    "parent": "ef97"
   },
   "aab81b-951-1": {
     "id": "aab81b-951-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 951,
-    "z": 4754,
-    "parent": "s2y2"
+    "z": 7709,
+    "parent": "ef97"
   },
   "aab81b-952-1": {
     "id": "aab81b-952-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 952,
-    "z": 4739
+    "z": 7744
   },
   "aab81b-953-1": {
     "id": "aab81b-953-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 953,
-    "z": 4761,
-    "parent": "s2y2"
+    "z": 7726,
+    "parent": "ef97"
   },
   "aab81b-954-1": {
     "id": "aab81b-954-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 954,
-    "z": 4728
+    "z": 7722
   },
   "aab81b-955-1": {
     "id": "aab81b-955-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 955,
-    "z": 4757
+    "z": 7699
   },
   "aab81b-956-1": {
     "id": "aab81b-956-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 956,
-    "z": 4766,
-    "parent": "s2y2"
+    "z": 7735,
+    "parent": "ef97"
   },
   "aab81b-957-1": {
     "id": "aab81b-957-1",
     "type": "card",
-    "parent": "s2y2",
     "deck": "aab81b",
     "cardType": 957,
-    "z": 4769
+    "z": 7738,
+    "parent": "ef97"
   },
   "aab81b-958-1": {
     "id": "aab81b-958-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 958,
-    "z": 4760
+    "z": 7723
   },
   "aab81b-959-1": {
     "id": "aab81b-959-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 959,
-    "z": 4722,
-    "parent": "s2y2"
+    "z": 7757,
+    "parent": "ef97"
   },
   "aab81b-960-1": {
     "id": "aab81b-960-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 960,
-    "z": 4737
+    "z": 7733
   },
   "aab81b-961-1": {
     "id": "aab81b-961-1",
     "type": "card",
-    "parent": "s2y2",
+    "parent": "ef97",
     "deck": "aab81b",
     "cardType": 961,
-    "z": 4732
+    "z": 7737
   },
   "aab81b-962-1": {
     "id": "aab81b-962-1",
     "type": "card",
-    "parent": "s2y2",
     "deck": "aab81b",
     "cardType": 962,
-    "z": 4753
+    "z": 7703,
+    "parent": "ef97"
   },
   "aab81b-963-1": {
     "id": "aab81b-963-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 963,
-    "z": 4768,
-    "parent": "s2y2"
+    "z": 7695,
+    "parent": "ef97"
   },
   "aab81b-964-1": {
     "id": "aab81b-964-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 964,
-    "z": 4736,
-    "parent": "s2y2"
+    "z": 7698,
+    "parent": "ef97"
   },
   "aab81b-965-1": {
     "id": "aab81b-965-1",
     "type": "card",
     "deck": "aab81b",
     "cardType": 965,
-    "z": 4719,
-    "parent": "s2y2"
+    "z": 7730,
+    "parent": "ef97"
   },
   "aab81b": {
     "id": "aab81b",
@@ -1170,272 +1170,272 @@
     "type": "card",
     "deck": "79a839",
     "cardType": 1000,
-    "z": 4851,
-    "parent": "iwcm"
+    "z": 7831,
+    "parent": "o0sw"
   },
   "79a839-1001-1": {
     "id": "79a839-1001-1",
     "type": "card",
-    "parent": "iwcm",
+    "parent": "o0sw",
     "deck": "79a839",
     "cardType": 1001,
-    "z": 4873
+    "z": 7843
   },
   "79a839-1002-1": {
     "id": "79a839-1002-1",
     "type": "card",
-    "parent": "iwcm",
     "deck": "79a839",
     "cardType": 1002,
-    "z": 4855
+    "z": 7857,
+    "parent": "o0sw"
   },
   "79a839-1003-1": {
     "id": "79a839-1003-1",
     "type": "card",
-    "parent": "iwcm",
     "deck": "79a839",
     "cardType": 1003,
-    "z": 4869
+    "z": 7858,
+    "parent": "o0sw"
   },
   "79a839-1004-1": {
     "id": "79a839-1004-1",
     "type": "card",
-    "parent": "iwcm",
     "deck": "79a839",
     "cardType": 1004,
-    "z": 4881
+    "z": 7846,
+    "parent": "o0sw"
   },
   "79a839-1005-1": {
     "id": "79a839-1005-1",
     "type": "card",
     "deck": "79a839",
     "cardType": 1005,
-    "z": 4863,
-    "parent": "iwcm"
+    "z": 7849,
+    "parent": "o0sw"
   },
   "79a839-1006-1": {
     "id": "79a839-1006-1",
     "type": "card",
-    "parent": "iwcm",
+    "parent": "o0sw",
     "deck": "79a839",
     "cardType": 1006,
-    "z": 4854
+    "z": 7829
   },
   "79a839-1007-1": {
     "id": "79a839-1007-1",
     "type": "card",
-    "parent": "iwcm",
+    "parent": "o0sw",
     "deck": "79a839",
     "cardType": 1007,
-    "z": 4871
+    "z": 7832
   },
   "79a839-1008-1": {
     "id": "79a839-1008-1",
     "type": "card",
-    "parent": "iwcm",
+    "parent": "o0sw",
     "deck": "79a839",
     "cardType": 1008,
-    "z": 4860
+    "z": 7854
   },
   "79a839-1009-1": {
     "id": "79a839-1009-1",
     "type": "card",
-    "parent": "iwcm",
+    "parent": "o0sw",
     "deck": "79a839",
     "cardType": 1009,
-    "z": 4866
+    "z": 7851
   },
   "79a839-1010-1": {
     "id": "79a839-1010-1",
     "type": "card",
-    "parent": "iwcm",
+    "parent": "o0sw",
     "deck": "79a839",
     "cardType": 1010,
-    "z": 4877
+    "z": 7861
   },
   "79a839-1011-1": {
     "id": "79a839-1011-1",
     "type": "card",
-    "parent": "iwcm",
+    "parent": "o0sw",
     "deck": "79a839",
     "cardType": 1011,
-    "z": 4867
+    "z": 7850
   },
   "79a839-1012-1": {
     "id": "79a839-1012-1",
     "type": "card",
-    "parent": "iwcm",
+    "parent": "o0sw",
     "deck": "79a839",
     "cardType": 1012,
-    "z": 4879
+    "z": 7848
   },
   "79a839-1013-1": {
     "id": "79a839-1013-1",
     "type": "card",
-    "parent": "iwcm",
     "deck": "79a839",
     "cardType": 1013,
-    "z": 4876
+    "z": 7842,
+    "parent": "o0sw"
   },
   "79a839-1014-1": {
     "id": "79a839-1014-1",
     "type": "card",
-    "parent": "iwcm",
+    "parent": "o0sw",
     "deck": "79a839",
     "cardType": 1014,
-    "z": 4857
+    "z": 7830
   },
   "79a839-1015-1": {
     "id": "79a839-1015-1",
     "type": "card",
-    "parent": "iwcm",
+    "parent": "o0sw",
     "deck": "79a839",
     "cardType": 1015,
-    "z": 4882
+    "z": 7836
   },
   "79a839-1016-1": {
     "id": "79a839-1016-1",
     "type": "card",
-    "parent": "iwcm",
+    "parent": "o0sw",
     "deck": "79a839",
     "cardType": 1016,
-    "z": 4868
+    "z": 7859
   },
   "79a839-1017-1": {
     "id": "79a839-1017-1",
     "type": "card",
     "deck": "79a839",
     "cardType": 1017,
-    "z": 4861,
-    "parent": "iwcm"
+    "z": 7853,
+    "parent": "o0sw"
   },
   "79a839-1018-1": {
     "id": "79a839-1018-1",
     "type": "card",
-    "parent": "iwcm",
+    "parent": "o0sw",
     "deck": "79a839",
     "cardType": 1018,
-    "z": 4872
+    "z": 7828
   },
   "79a839-1019-1": {
     "id": "79a839-1019-1",
     "type": "card",
-    "parent": "iwcm",
     "deck": "79a839",
     "cardType": 1019,
-    "z": 4852
+    "z": 7844,
+    "parent": "o0sw"
   },
   "79a839-1020-1": {
     "id": "79a839-1020-1",
     "type": "card",
-    "parent": "iwcm",
+    "parent": "o0sw",
     "deck": "79a839",
     "cardType": 1020,
-    "z": 4858
+    "z": 7855
   },
   "79a839-1021-1": {
     "id": "79a839-1021-1",
     "type": "card",
     "deck": "79a839",
     "cardType": 1021,
-    "z": 4853,
-    "parent": "iwcm"
+    "z": 7833,
+    "parent": "o0sw"
   },
   "79a839-1022-1": {
     "id": "79a839-1022-1",
     "type": "card",
-    "parent": "iwcm",
+    "parent": "o0sw",
     "deck": "79a839",
     "cardType": 1022,
-    "z": 4880
+    "z": 7840
   },
   "79a839-1023-1": {
     "id": "79a839-1023-1",
     "type": "card",
-    "parent": "iwcm",
+    "parent": "o0sw",
     "deck": "79a839",
     "cardType": 1023,
-    "z": 4883
+    "z": 7841
   },
   "79a839-1024-1": {
     "id": "79a839-1024-1",
     "type": "card",
-    "parent": "iwcm",
+    "parent": "o0sw",
     "deck": "79a839",
     "cardType": 1024,
-    "z": 4864
+    "z": 7845
   },
   "79a839-1025-1": {
     "id": "79a839-1025-1",
     "type": "card",
-    "parent": "iwcm",
     "deck": "79a839",
     "cardType": 1025,
-    "z": 4856
+    "z": 7835,
+    "parent": "o0sw"
   },
   "79a839-1026-1": {
     "id": "79a839-1026-1",
     "type": "card",
-    "parent": "iwcm",
+    "parent": "o0sw",
     "deck": "79a839",
     "cardType": 1026,
-    "z": 4850
+    "z": 7847
   },
   "79a839-1027-1": {
     "id": "79a839-1027-1",
     "type": "card",
-    "parent": "iwcm",
+    "parent": "o0sw",
     "deck": "79a839",
     "cardType": 1027,
-    "z": 4875
+    "z": 7860
   },
   "79a839-1028-1": {
     "id": "79a839-1028-1",
     "type": "card",
-    "parent": "iwcm",
+    "parent": "o0sw",
     "deck": "79a839",
     "cardType": 1028,
-    "z": 4859
+    "z": 7837
   },
   "79a839-1029-1": {
     "id": "79a839-1029-1",
     "type": "card",
     "deck": "79a839",
     "cardType": 1029,
-    "z": 4862,
-    "parent": "iwcm"
+    "z": 7838,
+    "parent": "o0sw"
   },
   "79a839-1030-1": {
     "id": "79a839-1030-1",
     "type": "card",
     "deck": "79a839",
     "cardType": 1030,
-    "z": 4874,
-    "parent": "iwcm"
+    "z": 7856,
+    "parent": "o0sw"
   },
   "79a839-1031-1": {
     "id": "79a839-1031-1",
     "type": "card",
-    "parent": "iwcm",
+    "parent": "o0sw",
     "deck": "79a839",
     "cardType": 1031,
-    "z": 4878
+    "z": 7839
   },
   "79a839-1032-1": {
     "id": "79a839-1032-1",
     "type": "card",
     "deck": "79a839",
     "cardType": 1032,
-    "z": 4865,
-    "parent": "iwcm"
+    "z": 7852,
+    "parent": "o0sw"
   },
   "79a839-1033-1": {
     "id": "79a839-1033-1",
     "type": "card",
     "deck": "79a839",
     "cardType": 1033,
-    "z": 4870,
-    "parent": "iwcm"
+    "z": 7834,
+    "parent": "o0sw"
   },
   "79a839": {
     "id": "79a839",
@@ -1814,7 +1814,7 @@
     ],
     "x": 4,
     "y": 4,
-    "z": 3188,
+    "z": 5005,
     "hoverParent": "tcfd",
     "parent": "tcfd"
   },
@@ -1825,7 +1825,7 @@
     "cardType": 1100,
     "x": 4,
     "y": 4,
-    "z": 1350,
+    "z": 7863,
     "activeFace": 1,
     "parent": "8z58"
   },
@@ -1899,9 +1899,9 @@
         ]
       }
     ],
-    "y": 915,
-    "z": 4558,
-    "x": -2
+    "y": 15,
+    "z": 5030,
+    "x": 753
   },
   "635a3c-1200-1": {
     "id": "635a3c-1200-1",
@@ -1910,9 +1910,9 @@
     "cardType": 1200,
     "x": 4,
     "y": 4,
-    "z": 4569,
-    "parent": "8z51",
-    "activeFace": 1
+    "z": 7545,
+    "activeFace": 1,
+    "parent": "8z51"
   },
   "635a3c": {
     "id": "635a3c",
@@ -1984,19 +1984,18 @@
         ]
       }
     ],
-    "x": -34,
-    "y": 943,
-    "z": 4560
+    "x": 767,
+    "y": 40,
+    "z": 5033
   },
   "f7a2a9-1300-1": {
     "id": "f7a2a9-1300-1",
     "type": "card",
-    "parent": null,
     "deck": "f7a2a9",
     "cardType": 1300,
-    "x": 152,
-    "y": 41,
-    "z": 4050
+    "z": 5007,
+    "x": 197,
+    "y": 836
   },
   "f7a2a9": {
     "id": "f7a2a9",
@@ -2068,9 +2067,9 @@
         ]
       }
     ],
-    "y": 946,
-    "z": 4553,
-    "x": -5
+    "y": 53,
+    "z": 5035,
+    "x": 755
   },
   "e257de-1100-1": {
     "id": "e257de-1100-1",
@@ -2153,9 +2152,9 @@
         ]
       }
     ],
-    "y": 958,
-    "z": 4554,
-    "x": -4
+    "y": 28,
+    "z": 5034,
+    "x": 755
   },
   "f3fbf4-1200-1": {
     "id": "f3fbf4-1200-1",
@@ -2164,10 +2163,9 @@
     "cardType": 1200,
     "x": 4,
     "y": 4,
-    "z": 1346,
-    "hoverParent": "8z37",
-    "parent": "8z37",
-    "activeFace": 1
+    "z": 4910,
+    "activeFace": 1,
+    "parent": "8z37"
   },
   "f3fbf4": {
     "id": "f3fbf4",
@@ -2239,9 +2237,9 @@
         ]
       }
     ],
-    "x": 4,
-    "z": 4562,
-    "y": 963
+    "x": 765,
+    "z": 5031,
+    "y": 39
   },
   "d3f512-1300-1": {
     "id": "d3f512-1300-1",
@@ -2249,9 +2247,9 @@
     "parent": null,
     "deck": "d3f512",
     "cardType": 1300,
-    "x": 268,
-    "y": 40,
-    "z": 4049,
+    "x": 313,
+    "y": 835,
+    "z": 4993,
     "activeFace": 1
   },
   "d3f512": {
@@ -2324,9 +2322,9 @@
         ]
       }
     ],
-    "x": 7,
-    "y": 927,
-    "z": 4556
+    "x": 757,
+    "y": 52,
+    "z": 5032
   },
   "hand": {
     "id": "hand",
@@ -2340,82 +2338,84 @@
     "dropOffsetX": 10,
     "dropOffsetY": 14,
     "childrenPerOwner": true,
-    "width": 575,
+    "width": 710,
     "height": 160,
     "dropShadow": true,
     "hidePlayerCursors": true,
-    "z": 692,
-    "x": 46,
-    "movable": true,
-    "y": 440,
-    "stackOffsetX": 115
+    "z": 711,
+    "x": 429,
+    "y": 832,
+    "stackOffsetX": 115,
+    "css": {
+      "default": {
+        "background-color": "rgba(211, 211, 211, 0.3)"
+      }
+    }
   },
   "_meta": {
     "version": 15,
     "info": {
-      "name": "Radlands"
+      "name": "Radlands",
+      "lastUpdate": 1704142452113,
+      "image": "/assets/1880001921_894394",
+      "showName": false,
+      "time": "",
+      "mode": "",
+      "skill": "",
+      "description": "",
+      "variantImage": "",
+      "variant": "",
+      "language": "",
+      "players": "",
+      "similarImage": "",
+      "similarName": "",
+      "year": "",
+      "similarDesigner": "",
+      "similarAwards": "",
+      "bgg": "",
+      "rules": "",
+      "ruleText": "",
+      "helpText": "",
+      "attribution": ""
     }
   },
   "tygq": {
     "type": "holder",
     "id": "tygq",
-    "x": 514,
-    "y": 34,
+    "x": 739,
+    "y": 504,
     "dropTarget": {
       "type": "card"
     },
-    "z": 689
-  },
-  "tygqB": {
-    "id": "tygqB",
-    "parent": "tygq",
-    "fixedParent": true,
-    "y": 171.36,
-    "width": 111,
-    "height": 40,
-    "type": "button",
-    "text": "Recall & Shuffle",
-    "movableInEdit": false,
-    "clickRoutine": [
-      {
-        "func": "RECALL",
-        "holder": "${PROPERTY parent}"
-      },
-      {
-        "func": "FLIP",
-        "holder": "${PROPERTY parent}",
-        "face": 0
-      },
-      {
-        "func": "ROTATE",
-        "holder": "${PROPERTY parent}",
-        "count": 999,
-        "angle": 0,
-        "mode": "set"
-      },
-      {
-        "func": "SHUFFLE",
-        "holder": "${PROPERTY parent}"
-      }
-    ]
+    "z": 712
   },
   "8z17": {
     "type": "holder",
-    "x": 658,
-    "z": 602,
+    "x": 1209,
+    "z": 710,
     "id": "8z17",
     "width": 115,
     "height": 160,
-    "y": 30
+    "y": 506,
+    "css": {
+      "default": {
+        "background-color": "rgba(211, 211, 211, 0.3)"
+      }
+    }
   },
   "8z19": {
     "type": "holder",
-    "x": 888,
-    "z": 635,
+    "x": 887,
+    "z": 721,
     "id": "8z19",
     "width": 115,
     "height": 160,
-    "y": 30
+    "y": 29,
+    "css": {
+      "default": {
+        "background-color": "rgba(0, 0, 0, 0.3)"
+      }
+    }
   },
   "8z20": {
     "type": "holder",
@@ -2424,34 +2424,54 @@
     "id": "8z20",
     "width": 115,
     "height": 160,
-    "y": 29
+    "y": 29,
+    "css": {
+      "default": {
+        "background-color": "rgba(0, 0, 0, 0.3)"
+      }
+    }
   },
   "8z21": {
     "type": "holder",
-    "x": 1209,
-    "z": 4,
+    "x": 1208,
+    "z": 719,
     "id": "8z21",
     "width": 115,
     "height": 160,
-    "y": 28
+    "y": 29,
+    "css": {
+      "default": {
+        "background-color": "rgba(0, 0, 0, 0.3)"
+      }
+    }
   },
   "8z24": {
     "type": "holder",
-    "x": 658,
-    "z": 609,
+    "x": 1049,
+    "z": 696,
     "id": "8z24",
     "width": 115,
     "height": 160,
-    "y": 190
+    "y": 507,
+    "css": {
+      "default": {
+        "background-color": "rgba(211, 211, 211, 0.3)"
+      }
+    }
   },
   "8z26": {
     "type": "holder",
     "x": 888,
-    "z": 610,
+    "z": 720,
     "id": "8z26",
     "width": 115,
     "height": 160,
-    "y": 190
+    "y": 190,
+    "css": {
+      "default": {
+        "background-color": "rgba(0, 0, 0, 0.3)"
+      }
+    }
   },
   "8z27": {
     "type": "holder",
@@ -2460,7 +2480,12 @@
     "id": "8z27",
     "width": 115,
     "height": 160,
-    "y": 189
+    "y": 189,
+    "css": {
+      "default": {
+        "background-color": "rgba(0, 0, 0, 0.3)"
+      }
+    }
   },
   "8z28": {
     "type": "holder",
@@ -2469,25 +2494,35 @@
     "id": "8z28",
     "width": 115,
     "height": 160,
-    "y": 188
+    "y": 188,
+    "css": {
+      "default": {
+        "background-color": "rgba(0, 0, 0, 0.3)"
+      }
+    }
   },
   "8z30": {
     "type": "holder",
-    "x": 1467,
+    "x": 92,
     "z": 607,
     "id": "8z30",
     "width": 115,
     "height": 160,
-    "y": 25
+    "y": 249
   },
   "8z31": {
     "type": "holder",
-    "x": 658,
-    "z": 614,
+    "x": 887,
+    "z": 727,
     "id": "8z31",
     "width": 115,
     "height": 160,
-    "y": 350
+    "y": 509,
+    "css": {
+      "default": {
+        "background-color": "rgba(211, 211, 211, 0.3)"
+      }
+    }
   },
   "8z33": {
     "type": "holder",
@@ -2496,7 +2531,12 @@
     "id": "8z33",
     "width": 115,
     "height": 160,
-    "y": 350
+    "y": 350,
+    "css": {
+      "default": {
+        "background-color": "rgba(0, 0, 0, 0.3)"
+      }
+    }
   },
   "8z34": {
     "type": "holder",
@@ -2505,7 +2545,12 @@
     "id": "8z34",
     "width": 115,
     "height": 160,
-    "y": 349
+    "y": 349,
+    "css": {
+      "default": {
+        "background-color": "rgba(0, 0, 0, 0.3)"
+      }
+    }
   },
   "8z35": {
     "type": "holder",
@@ -2514,162 +2559,214 @@
     "id": "8z35",
     "width": 115,
     "height": 160,
-    "y": 348
+    "y": 348,
+    "css": {
+      "default": {
+        "background-color": "rgba(0, 0, 0, 0.3)"
+      }
+    }
   },
   "8z37": {
     "type": "holder",
-    "x": 1467,
+    "x": 430,
     "z": 612,
     "id": "8z37",
     "width": 115,
     "height": 160,
-    "y": 185
+    "y": 659
   },
   "8z38": {
     "type": "holder",
-    "x": 658,
-    "z": 619,
+    "x": 592,
+    "z": 703,
     "id": "8z38",
     "width": 115,
     "height": 160,
-    "y": 510
+    "y": 500,
+    "css": {
+      "default": {
+        "background-color": "rgba(211, 211, 211, 0.3)"
+      }
+    }
   },
   "8z40": {
     "type": "holder",
-    "x": 888,
-    "z": 620,
+    "x": 270,
+    "z": 725,
     "id": "8z40",
     "width": 115,
     "height": 160,
-    "y": 510
+    "y": 23,
+    "css": {
+      "default": {
+        "background-color": "rgba(0, 0, 0, 0.3)"
+      }
+    }
   },
   "8z41": {
     "type": "holder",
-    "x": 1049,
-    "z": 618,
+    "x": 431,
+    "z": 724,
     "id": "8z41",
     "width": 115,
     "height": 160,
-    "y": 509
+    "y": 22,
+    "css": {
+      "default": {
+        "background-color": "rgba(0, 0, 0, 0.3)"
+      }
+    }
   },
   "8z42": {
     "type": "holder",
-    "x": 1209,
-    "z": 617,
+    "x": 591,
+    "z": 722,
     "id": "8z42",
     "width": 115,
     "height": 160,
-    "y": 508
+    "y": 22,
+    "css": {
+      "default": {
+        "background-color": "rgba(0, 0, 0, 0.3)"
+      }
+    }
   },
   "8z45": {
     "type": "holder",
-    "x": 658,
-    "z": 624,
+    "x": 432,
+    "z": 704,
     "id": "8z45",
     "width": 115,
     "height": 160,
-    "y": 670
+    "y": 502,
+    "css": {
+      "default": {
+        "background-color": "rgba(211, 211, 211, 0.3)"
+      }
+    }
   },
   "8z47": {
     "type": "holder",
-    "x": 888,
-    "z": 625,
+    "x": 269,
+    "z": 726,
     "id": "8z47",
     "width": 115,
     "height": 160,
-    "y": 670
+    "y": 184,
+    "css": {
+      "default": {
+        "background-color": "rgba(0, 0, 0, 0.3)"
+      }
+    }
   },
   "8z48": {
     "type": "holder",
-    "x": 1049,
+    "x": 431,
     "z": 623,
     "id": "8z48",
     "width": 115,
     "height": 160,
-    "y": 669
+    "y": 183,
+    "css": {
+      "default": {
+        "background-color": "rgba(0, 0, 0, 0.3)"
+      }
+    }
   },
   "8z49": {
     "type": "holder",
-    "x": 1209,
-    "z": 621,
+    "x": 591,
+    "z": 723,
     "id": "8z49",
     "width": 115,
     "height": 160,
-    "y": 668
+    "y": 182,
+    "css": {
+      "default": {
+        "background-color": "rgba(0, 0, 0, 0.3)"
+      }
+    }
   },
   "8z51": {
     "type": "holder",
-    "x": 1463,
+    "x": 1048,
     "z": 622,
     "id": "8z51",
     "width": 115,
     "height": 160,
-    "y": 668
+    "y": 663
   },
   "8z52": {
     "type": "holder",
-    "x": 658,
-    "z": 629,
+    "x": 270,
+    "z": 728,
     "id": "8z52",
     "width": 115,
     "height": 160,
-    "y": 830
+    "y": 502,
+    "css": {
+      "default": {
+        "background-color": "rgba(211, 211, 211, 0.3)"
+      }
+    }
   },
   "8z54": {
     "type": "holder",
-    "x": 888,
+    "x": 270,
     "z": 630,
     "id": "8z54",
     "width": 115,
     "height": 160,
-    "y": 830
+    "y": 344,
+    "css": {
+      "default": {
+        "background-color": "rgba(0, 0, 0, 0.3)"
+      }
+    }
   },
   "8z55": {
     "type": "holder",
-    "x": 1049,
+    "x": 431,
     "z": 628,
     "id": "8z55",
     "width": 115,
     "height": 160,
-    "y": 829
+    "y": 343,
+    "css": {
+      "default": {
+        "background-color": "rgba(0, 0, 0, 0.3)"
+      }
+    }
   },
   "8z56": {
     "type": "holder",
-    "x": 1209,
+    "x": 591,
     "z": 626,
     "id": "8z56",
     "width": 115,
     "height": 160,
-    "y": 828
+    "y": 342,
+    "css": {
+      "default": {
+        "background-color": "rgba(0, 0, 0, 0.3)"
+      }
+    }
   },
   "8z58": {
     "type": "holder",
-    "x": 1463,
+    "x": 1399,
     "z": 627,
     "id": "8z58",
     "width": 115,
     "height": 160,
-    "y": 828
-  },
-  "am93": {
-    "x": 649,
-    "y": 507,
-    "width": 940,
-    "height": 0,
-    "borderRadius": "3px",
-    "css": {
-      "border": "3px solid #666"
-    },
-    "z": 616,
-    "id": "am93"
+    "y": 253
   },
   "lit4": {
     "type": "seat",
-    "index": 1,
-    "x": 1390,
+    "x": 68,
     "id": "lit4",
-    "z": 32,
-    "y": 387
+    "z": 39,
+    "y": 190
   },
   "lit4C": {
     "id": "lit4C",
@@ -2722,10 +2819,10 @@
   },
   "lit5": {
     "type": "seat",
-    "x": 1392,
-    "y": 589,
+    "x": 1379,
+    "y": 185,
     "id": "lit5",
-    "z": 31
+    "z": 34
   },
   "lit5C": {
     "id": "lit5C",
@@ -2776,290 +2873,29 @@
       }
     ]
   },
-  "9k3kD": {
-    "type": "deck",
-    "id": "9k3kD",
-    "x": 1334,
-    "y": 156,
-    "scale": 0.5,
-    "cardDefaults": {
-      "classes": "pokerChip",
-      "width": 73,
-      "height": 73,
-      "onPileCreation": {
-        "text": 0,
-        "enterRoutine": [
-          {
-            "func": "GET",
-            "property": "value",
-            "collection": "child",
-            "aggregation": "sum",
-            "variable": "value"
-          },
-          {
-            "func": "SET",
-            "property": "text",
-            "collection": "thisButton",
-            "relation": "+",
-            "value": "${value}"
-          }
-        ],
-        "leaveRoutine": [
-          {
-            "func": "GET",
-            "property": "value",
-            "collection": "child",
-            "aggregation": "sum",
-            "variable": "value"
-          },
-          {
-            "func": "SET",
-            "property": "text",
-            "collection": "thisButton",
-            "relation": "-",
-            "value": "${value}"
-          }
-        ]
-      }
-    },
-    "cardTypes": {
-      "1": {
-        "value": 1,
-        "accentColor1": "#808080",
-        "accentColor2": "#add8e6",
-        "borderColor": "#000000",
-        "borderWidth": 2,
-        "labelColor": "#d3d3d3",
-        "primaryColor": "#ffffff"
-      },
-      "5": {
-        "value": 8,
-        "accentColor1": "#ffffff",
-        "accentColor2": "#ffff00",
-        "borderColor": "#000000",
-        "borderWidth": 2,
-        "labelColor": "#ed8080",
-        "primaryColor": "#ff0000"
-      },
-      "10": {
-        "value": 10,
-        "accentColor1": "#ffffff",
-        "accentColor2": "#87ceeb",
-        "borderColor": "#000000",
-        "borderWidth": 2,
-        "labelColor": "#b0c4de",
-        "primaryColor": "#000080"
-      },
-      "25": {
-        "value": 25,
-        "accentColor1": "#ffffff",
-        "accentColor2": "#000000",
-        "borderColor": "#000000",
-        "borderWidth": 2,
-        "labelColor": "#22ba22",
-        "primaryColor": "#008000"
-      },
-      "100": {
-        "value": 100,
-        "accentColor1": "#ffffff",
-        "accentColor2": "#ffc0cb",
-        "borderColor": "#000000",
-        "borderWidth": 2,
-        "labelColor": "#ee82ee",
-        "primaryColor": "#4b0082"
-      },
-      "500": {
-        "value": 500,
-        "accentColor1": "#ffffff",
-        "accentColor2": "#808080",
-        "borderColor": "#000000",
-        "borderWidth": 2,
-        "labelColor": "#a9a9a9",
-        "primaryColor": "#000000"
-      },
-      "1000": {
-        "value": 1000,
-        "accentColor1": "#ff0000",
-        "accentColor2": "#daa520",
-        "borderColor": "#000000",
-        "borderWidth": 2,
-        "labelColor": "#ffff00",
-        "primaryColor": "#ffd700"
-      }
-    },
-    "faceTemplates": [
-      {
-        "border": false,
-        "radius": false,
-        "objects": [
-          {
-            "css": "font-size:1.5rem",
-            "type": "image",
-            "x": 0,
-            "y": 0,
-            "width": 73,
-            "height": 73,
-            "color": "transparent",
-            "value": "i/game-pieces/2D/Poker-2D.svg",
-            "dynamicProperties": {
-              "accentColor1": "accentColor1",
-              "accentColor2": "accentColor2",
-              "borderColor": "borderColor",
-              "borderWidth": "borderWidth",
-              "labelColor": "labelColor",
-              "primaryColor": "primaryColor"
-            },
-            "svgReplaces": {
-              "#accentColor1": "accentColor1",
-              "#accentColor2": "accentColor2",
-              "#borderColor": "borderColor",
-              "#borderWidth": "borderWidth",
-              "#labelColor": "labelColor",
-              "#primaryColor": "primaryColor"
-            }
-          },
-          {
-            "type": "text",
-            "x": 0,
-            "y": 26,
-            "fontSize": 22,
-            "textAlign": "center",
-            "width": 73,
-            "dynamicProperties": {
-              "value": "value"
-            },
-            "css": "color: #222222;"
-          }
-        ]
-      }
-    ],
-    "z": 1449,
-    "hoverParent": "9k2k",
-    "parent": "RedHolder"
-  },
   "tcfd": {
     "type": "holder",
     "id": "tcfd",
-    "x": 23,
-    "y": 34,
+    "y": 832,
     "dropTarget": {
       "type": "card"
     },
-    "z": 654
-  },
-  "tcfdB": {
-    "id": "tcfdB",
-    "parent": "tcfd",
-    "fixedParent": true,
-    "y": 171.36,
-    "width": 111,
-    "height": 40,
-    "type": "button",
-    "text": "Recall & Shuffle",
-    "movableInEdit": false,
-    "clickRoutine": [
-      {
-        "func": "RECALL",
-        "holder": "${PROPERTY parent}"
-      },
-      {
-        "func": "FLIP",
-        "holder": "${PROPERTY parent}",
-        "face": 0
-      },
-      {
-        "func": "ROTATE",
-        "holder": "${PROPERTY parent}",
-        "count": 999,
-        "angle": 0,
-        "mode": "set"
-      },
-      {
-        "func": "SHUFFLE",
-        "holder": "${PROPERTY parent}"
-      }
-    ]
+    "z": 716,
+    "x": 87
   },
   "8z18": {
     "type": "holder",
-    "x": 394,
-    "z": 655,
+    "x": 741,
+    "z": 713,
     "id": "8z18",
     "width": 115,
     "height": 160,
-    "y": 37
-  },
-  "RedHolder": {
-    "type": "holder",
-    "id": "RedHolder",
-    "x": 1360,
-    "y": 473,
-    "width": 75,
-    "height": 75,
-    "borderRadius": 100,
-    "z": 639,
-    "inheritChildZ": true,
-    "dropOffsetX": 0,
-    "dropOffsetY": 0,
-    "dropTarget": {
-      "chip": true
-    },
-    "enterRoutine": [
-      {
-        "func": "SELECT",
-        "property": "parent",
-        "value": "${thisID}",
-        "type": "card"
-      },
-      {
-        "func": "COUNT"
-      },
-      {
-        "func": "IF",
-        "operand1": 1,
-        "relation": "<",
-        "operand2": "${COUNT}",
-        "thenRoutine": [
-          {
-            "func": "DELETE",
-            "collection": "child"
-          }
-        ]
+    "y": 671,
+    "css": {
+      "default": {
+        "background-color": "rgba(211, 211, 211, 0.3)"
       }
-    ],
-    "leaveRoutine": [
-      {
-        "func": "SELECT",
-        "property": "parent",
-        "value": "${thisID}",
-        "type": "card"
-      },
-      {
-        "func": "COUNT"
-      },
-      {
-        "func": "IF",
-        "operand1": 0,
-        "relation": "==",
-        "operand2": "${COUNT}",
-        "thenRoutine": [
-          {
-            "func": "CLONE",
-            "source": "child"
-          },
-          {
-            "func": "SET",
-            "property": "parent",
-            "value": "${thisID}"
-          },
-          {
-            "func": "MOVE",
-            "from": "${thisID}",
-            "to": "${thisID}"
-          }
-        ]
-      }
-    ]
+    }
   },
   "xih8": {
     "type": "button",
@@ -3074,26 +2910,18 @@
         "func": "DELETE"
       }
     ],
-    "x": 1500,
-    "y": 469,
-    "z": 29,
+    "x": 760,
+    "y": 231,
+    "z": 44,
     "id": "xih8",
-    "text": "Clear\n Tokens"
-  },
-  "iwcm": {
-    "type": "pile",
-    "parent": "tcfd",
-    "x": 4,
-    "y": 4,
-    "width": 115,
-    "height": 160,
-    "id": "iwcm"
+    "text": "Clear\n Tokens",
+    "clickSound": "/assets/-1368580600_74396"
   },
   "gmix": {
     "id": "gmix",
-    "z": 1098,
-    "x": 774,
-    "y": 418,
+    "z": 2470,
+    "x": 929,
+    "y": 575,
     "html": "1💣",
     "css": {
       "default": {
@@ -3110,9 +2938,9 @@
   },
   "gmix1": {
     "id": "gmix1",
-    "z": 1094,
-    "x": 774,
-    "y": 739,
+    "z": 2749,
+    "x": 473,
+    "y": 567,
     "html": "2💣",
     "css": {
       "default": {
@@ -3129,9 +2957,9 @@
   },
   "gmix2": {
     "id": "gmix2",
-    "z": 1093,
-    "x": 774,
-    "y": 578,
+    "z": 2474,
+    "x": 633,
+    "y": 567,
     "html": "1💣",
     "css": {
       "default": {
@@ -3148,9 +2976,9 @@
   },
   "gmix3": {
     "id": "gmix3",
-    "z": 1095,
-    "x": 774,
-    "y": 899,
+    "z": 2472,
+    "x": 308,
+    "y": 567,
     "html": "3💣",
     "css": {
       "default": {
@@ -3167,9 +2995,9 @@
   },
   "gmix4": {
     "id": "gmix4",
-    "z": 1097,
-    "x": 774,
-    "y": 265,
+    "z": 2469,
+    "x": 1090,
+    "y": 572,
     "html": "2💣",
     "css": {
       "default": {
@@ -3186,9 +3014,9 @@
   },
   "gmix5": {
     "id": "gmix5",
-    "z": 1096,
-    "x": 774,
-    "y": 93,
+    "z": 2471,
+    "x": 1253,
+    "y": 570,
     "html": "3💣",
     "css": {
       "default": {
@@ -3206,8 +3034,8 @@
   "RedHolder1": {
     "type": "holder",
     "id": "RedHolder1",
-    "x": 1358,
-    "y": 72,
+    "x": 762,
+    "y": 76,
     "width": 75,
     "height": 75,
     "borderRadius": 100,
@@ -3436,2623 +3264,1388 @@
     "hoverParent": "9k2k",
     "parent": "RedHolder1"
   },
-  "RedHolder2": {
-    "type": "holder",
-    "id": "RedHolder2",
-    "x": 1358,
-    "y": 886,
-    "width": 75,
-    "height": 75,
-    "borderRadius": 100,
-    "z": 639,
-    "inheritChildZ": true,
-    "dropOffsetX": 0,
-    "dropOffsetY": 0,
-    "dropTarget": {
-      "chip": true
-    },
-    "enterRoutine": [
-      {
-        "func": "SELECT",
-        "property": "parent",
-        "value": "${thisID}",
-        "type": "card"
-      },
-      {
-        "func": "COUNT"
-      },
-      {
-        "func": "IF",
-        "operand1": 1,
-        "relation": "<",
-        "operand2": "${COUNT}",
-        "thenRoutine": [
-          {
-            "func": "DELETE",
-            "collection": "child"
-          }
-        ]
-      }
-    ],
-    "leaveRoutine": [
-      {
-        "func": "SELECT",
-        "property": "parent",
-        "value": "${thisID}",
-        "type": "card"
-      },
-      {
-        "func": "COUNT"
-      },
-      {
-        "func": "IF",
-        "operand1": 0,
-        "relation": "==",
-        "operand2": "${COUNT}",
-        "thenRoutine": [
-          {
-            "func": "CLONE",
-            "source": "child"
-          },
-          {
-            "func": "SET",
-            "property": "parent",
-            "value": "${thisID}"
-          },
-          {
-            "func": "MOVE",
-            "from": "${thisID}",
-            "to": "${thisID}"
-          }
-        ]
-      }
-    ]
-  },
-  "9k5kD": {
-    "type": "deck",
-    "id": "9k5kD",
-    "x": 1334,
-    "y": 156,
-    "scale": 0.5,
-    "cardDefaults": {
-      "classes": "pokerChip",
-      "width": 73,
-      "height": 73,
-      "onPileCreation": {
-        "text": 0,
-        "enterRoutine": [
-          {
-            "func": "GET",
-            "property": "value",
-            "collection": "child",
-            "aggregation": "sum",
-            "variable": "value"
-          },
-          {
-            "func": "SET",
-            "property": "text",
-            "collection": "thisButton",
-            "relation": "+",
-            "value": "${value}"
-          }
-        ],
-        "leaveRoutine": [
-          {
-            "func": "GET",
-            "property": "value",
-            "collection": "child",
-            "aggregation": "sum",
-            "variable": "value"
-          },
-          {
-            "func": "SET",
-            "property": "text",
-            "collection": "thisButton",
-            "relation": "-",
-            "value": "${value}"
-          }
-        ]
-      }
-    },
-    "cardTypes": {
-      "1": {
-        "value": 1,
-        "accentColor1": "#808080",
-        "accentColor2": "#add8e6",
-        "borderColor": "#000000",
-        "borderWidth": 2,
-        "labelColor": "#d3d3d3",
-        "primaryColor": "#ffffff"
-      },
-      "5": {
-        "value": 8,
-        "accentColor1": "#ffffff",
-        "accentColor2": "#ffff00",
-        "borderColor": "#000000",
-        "borderWidth": 2,
-        "labelColor": "#ed8080",
-        "primaryColor": "#ff0000"
-      },
-      "10": {
-        "value": 10,
-        "accentColor1": "#ffffff",
-        "accentColor2": "#87ceeb",
-        "borderColor": "#000000",
-        "borderWidth": 2,
-        "labelColor": "#b0c4de",
-        "primaryColor": "#000080"
-      },
-      "25": {
-        "value": 25,
-        "accentColor1": "#ffffff",
-        "accentColor2": "#000000",
-        "borderColor": "#000000",
-        "borderWidth": 2,
-        "labelColor": "#22ba22",
-        "primaryColor": "#008000"
-      },
-      "100": {
-        "value": 100,
-        "accentColor1": "#ffffff",
-        "accentColor2": "#ffc0cb",
-        "borderColor": "#000000",
-        "borderWidth": 2,
-        "labelColor": "#ee82ee",
-        "primaryColor": "#4b0082"
-      },
-      "500": {
-        "value": 500,
-        "accentColor1": "#ffffff",
-        "accentColor2": "#808080",
-        "borderColor": "#000000",
-        "borderWidth": 2,
-        "labelColor": "#a9a9a9",
-        "primaryColor": "#000000"
-      },
-      "1000": {
-        "value": 1000,
-        "accentColor1": "#ff0000",
-        "accentColor2": "#daa520",
-        "borderColor": "#000000",
-        "borderWidth": 2,
-        "labelColor": "#ffff00",
-        "primaryColor": "#ffd700"
-      }
-    },
-    "faceTemplates": [
-      {
-        "border": false,
-        "radius": false,
-        "objects": [
-          {
-            "css": "font-size:1.5rem",
-            "type": "image",
-            "x": 0,
-            "y": 0,
-            "width": 73,
-            "height": 73,
-            "color": "transparent",
-            "value": "i/game-pieces/2D/Poker-2D.svg",
-            "dynamicProperties": {
-              "accentColor1": "accentColor1",
-              "accentColor2": "accentColor2",
-              "borderColor": "borderColor",
-              "borderWidth": "borderWidth",
-              "labelColor": "labelColor",
-              "primaryColor": "primaryColor"
-            },
-            "svgReplaces": {
-              "#accentColor1": "accentColor1",
-              "#accentColor2": "accentColor2",
-              "#borderColor": "borderColor",
-              "#borderWidth": "borderWidth",
-              "#labelColor": "labelColor",
-              "#primaryColor": "primaryColor"
-            }
-          },
-          {
-            "type": "text",
-            "x": 0,
-            "y": 26,
-            "fontSize": 22,
-            "textAlign": "center",
-            "width": 73,
-            "dynamicProperties": {
-              "value": "value"
-            },
-            "css": "color: #222222;"
-          }
-        ]
-      }
-    ],
-    "z": 1449,
-    "hoverParent": "9k2k",
-    "parent": "RedHolder2"
-  },
-  "ixk3": {
-    "width": 75,
-    "height": 75,
-    "z": 1630,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "g7gk",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "id": "ixk3",
-    "parent": "RedHolder"
-  },
-  "h7iy": {
-    "width": 75,
-    "height": 75,
-    "z": 1632,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "dragging": "Guest46",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "qxts",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "hoverParent": "RedHolder",
-    "id": "h7iy",
-    "parent": "RedHolder"
-  },
-  "8mev": {
-    "width": 75,
-    "height": 75,
-    "z": 1634,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "dragging": "Guest46",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "7bri",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "hoverTarget": "RedHolder",
-    "id": "8mev",
-    "parent": "RedHolder"
-  },
-  "o5zu": {
-    "width": 75,
-    "height": 75,
-    "z": 1636,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "6oi1",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "id": "o5zu",
-    "parent": "RedHolder"
-  },
-  "k2tr": {
-    "width": 75,
-    "height": 75,
-    "z": 1638,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "3f63",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder",
-    "id": "k2tr",
-    "parent": "RedHolder"
-  },
-  "cid6": {
-    "width": 75,
-    "height": 75,
-    "z": 1640,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "cgya",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "id": "cid6",
-    "parent": "RedHolder"
-  },
-  "ym73": {
-    "width": 75,
-    "height": 75,
-    "z": 1642,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "rjok",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder",
-    "id": "ym73",
-    "parent": "RedHolder"
-  },
-  "i4xa": {
-    "width": 75,
-    "height": 75,
-    "z": 1644,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "9vod",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "dragging": "Guest46",
-    "hoverParent": "RedHolder",
-    "activeFace": 1,
-    "id": "i4xa",
-    "parent": "RedHolder"
-  },
-  "kl21": {
-    "width": 75,
-    "height": 75,
-    "z": 1646,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "jn7h",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "dragging": "Guest46",
-    "activeFace": 1,
-    "hoverTarget": "RedHolder",
-    "id": "kl21",
-    "parent": "RedHolder"
-  },
-  "p627": {
-    "width": 75,
-    "height": 75,
-    "z": 1648,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "36r2",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverParent": "RedHolder",
-    "id": "p627",
-    "parent": "RedHolder"
-  },
-  "jznj": {
-    "width": 75,
-    "height": 75,
-    "z": 1650,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "hsk1",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder",
-    "id": "jznj",
-    "parent": "RedHolder"
-  },
-  "n269": {
-    "width": 75,
-    "height": 75,
-    "z": 1652,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "kso6",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder",
-    "id": "n269",
-    "parent": "RedHolder"
-  },
-  "sz8d": {
-    "width": 75,
-    "height": 75,
-    "z": 1654,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "aw5a",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder",
-    "hoverParent": "RedHolder",
-    "id": "sz8d",
-    "parent": "RedHolder"
-  },
-  "7qj6": {
-    "width": 75,
-    "height": 75,
-    "z": 1656,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "x2ri",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder",
-    "id": "7qj6",
-    "parent": "RedHolder"
-  },
-  "f4ac": {
-    "width": 75,
-    "height": 75,
-    "z": 1658,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "33e2",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "id": "f4ac",
-    "parent": "RedHolder"
-  },
-  "f170": {
-    "width": 75,
-    "height": 75,
-    "z": 1660,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "es04",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "id": "f170",
-    "parent": "RedHolder"
-  },
-  "dq8p": {
-    "width": 75,
-    "height": 75,
-    "z": 1662,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "uvwe",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder",
-    "id": "dq8p",
-    "parent": "RedHolder"
-  },
-  "p7ok": {
-    "width": 75,
-    "height": 75,
-    "z": 1664,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "wbjf",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverParent": "RedHolder",
-    "id": "p7ok",
-    "parent": "RedHolder"
-  },
-  "6ae3": {
-    "width": 75,
-    "height": 75,
-    "z": 1666,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "7blx",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder",
-    "id": "6ae3",
-    "parent": "RedHolder"
-  },
-  "ywog": {
-    "width": 75,
-    "height": 75,
-    "z": 1668,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "6qe5",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "id": "ywog",
-    "parent": "RedHolder1"
-  },
-  "qvf0": {
-    "width": 75,
-    "height": 75,
-    "z": 1670,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "dragging": "Guest46",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "yn1r",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "hoverParent": "RedHolder",
-    "id": "qvf0",
-    "parent": "RedHolder1"
-  },
-  "2nd7": {
-    "width": 75,
-    "height": 75,
-    "z": 1672,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "dragging": "Guest46",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "p33k",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "hoverTarget": "RedHolder",
-    "id": "2nd7",
-    "parent": "RedHolder1"
-  },
-  "9mjj": {
-    "width": 75,
-    "height": 75,
-    "z": 1674,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "hkm2",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "id": "9mjj",
-    "parent": "RedHolder1"
-  },
-  "84hn": {
-    "width": 75,
-    "height": 75,
-    "z": 1676,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "efwc",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder",
-    "id": "84hn",
-    "parent": "RedHolder1"
-  },
-  "y5l8": {
-    "width": 75,
-    "height": 75,
-    "z": 1678,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "9h2v",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "id": "y5l8",
-    "parent": "RedHolder1"
-  },
-  "3uie": {
-    "width": 75,
-    "height": 75,
-    "z": 1680,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "t9k3",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder",
-    "id": "3uie",
-    "parent": "RedHolder1"
-  },
-  "s4lr": {
-    "width": 75,
-    "height": 75,
-    "z": 1682,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "jz4d",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "dragging": "Guest46",
-    "hoverParent": "RedHolder",
-    "activeFace": 1,
-    "id": "s4lr",
-    "parent": "RedHolder1"
-  },
-  "2etu": {
-    "width": 75,
-    "height": 75,
-    "z": 1684,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "p0mp",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "dragging": "Guest46",
-    "activeFace": 1,
-    "hoverTarget": "RedHolder",
-    "id": "2etu",
-    "parent": "RedHolder1"
-  },
-  "wagx": {
-    "width": 75,
-    "height": 75,
-    "z": 1686,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "8mln",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverParent": "RedHolder",
-    "id": "wagx",
-    "parent": "RedHolder1"
-  },
-  "k7w1": {
-    "width": 75,
-    "height": 75,
-    "z": 1688,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "up3x",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder",
-    "id": "k7w1",
-    "parent": "RedHolder1"
-  },
-  "60m6": {
-    "width": 75,
-    "height": 75,
-    "z": 1690,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "t9hh",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder",
-    "id": "60m6",
-    "parent": "RedHolder1"
-  },
-  "k4ev": {
-    "width": 75,
-    "height": 75,
-    "z": 1692,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "1xd7",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder",
-    "hoverParent": "RedHolder",
-    "id": "k4ev",
-    "parent": "RedHolder1"
-  },
-  "y4c4": {
-    "width": 75,
-    "height": 75,
-    "z": 1694,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "kbue",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder",
-    "id": "y4c4",
-    "parent": "RedHolder1"
-  },
-  "297l": {
-    "width": 75,
-    "height": 75,
-    "z": 1696,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "mj0u",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "id": "297l",
-    "parent": "RedHolder1"
-  },
-  "u2ab": {
-    "width": 75,
-    "height": 75,
-    "z": 1698,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "wvri",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "id": "u2ab",
-    "parent": "RedHolder1"
-  },
-  "vz6i": {
-    "width": 75,
-    "height": 75,
-    "z": 1700,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "sl5v",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder",
-    "id": "vz6i",
-    "parent": "RedHolder1"
-  },
-  "fta2": {
-    "width": 75,
-    "height": 75,
-    "z": 1702,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "68cb",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverParent": "RedHolder",
-    "id": "fta2",
-    "parent": "RedHolder1"
-  },
-  "v7cg": {
-    "width": 75,
-    "height": 75,
-    "z": 1704,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "vnqs",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "id": "v7cg",
-    "parent": "RedHolder2"
-  },
-  "a620": {
-    "width": 75,
-    "height": 75,
-    "z": 1706,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "dragging": "Guest46",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "4hgr",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "hoverParent": "RedHolder",
-    "id": "a620",
-    "parent": "RedHolder2"
-  },
-  "z7no": {
-    "width": 75,
-    "height": 75,
-    "z": 1708,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "dragging": "Guest46",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "yl3u",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "hoverTarget": "RedHolder",
-    "id": "z7no",
-    "parent": "RedHolder2"
-  },
-  "kj0q": {
-    "width": 75,
-    "height": 75,
-    "z": 1710,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "f1nd",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "id": "kj0q",
-    "parent": "RedHolder2"
-  },
-  "0nvb": {
-    "width": 75,
-    "height": 75,
-    "z": 1712,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "waxn",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder",
-    "id": "0nvb",
-    "parent": "RedHolder2"
-  },
-  "aa0e": {
-    "width": 75,
-    "height": 75,
-    "z": 1714,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "v4c6",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "id": "aa0e",
-    "parent": "RedHolder2"
-  },
-  "dlf9": {
-    "width": 75,
-    "height": 75,
-    "z": 1716,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "htlh",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder",
-    "id": "dlf9",
-    "parent": "RedHolder2"
-  },
-  "df2a": {
-    "width": 75,
-    "height": 75,
-    "z": 1718,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "0t1g",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "dragging": "Guest46",
-    "hoverParent": "RedHolder",
-    "activeFace": 1,
-    "id": "df2a",
-    "parent": "RedHolder2"
-  },
-  "s1h2": {
-    "width": 75,
-    "height": 75,
-    "z": 1720,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "xpki",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "dragging": "Guest46",
-    "activeFace": 1,
-    "hoverTarget": "RedHolder",
-    "id": "s1h2",
-    "parent": "RedHolder2"
-  },
-  "2udm": {
-    "width": 75,
-    "height": 75,
-    "z": 1722,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "7og8",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverParent": "RedHolder",
-    "id": "2udm",
-    "parent": "RedHolder2"
-  },
-  "n7lt": {
-    "width": 75,
-    "height": 75,
-    "z": 1724,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
+  "0en4": {
+    "type": "button",
+    "text": "RESET",
+    "clickRoutine": [
       {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "ulb0",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder",
-    "id": "n7lt",
-    "parent": "RedHolder2"
-  },
-  "gkc7": {
-    "width": 75,
-    "height": 75,
-    "z": 1726,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "vknn",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder",
-    "id": "gkc7",
-    "parent": "RedHolder2"
-  },
-  "to97": {
-    "width": 75,
-    "height": 75,
-    "z": 1728,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "elab",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder",
-    "hoverParent": "RedHolder",
-    "id": "to97",
-    "parent": "RedHolder2"
-  },
-  "zqix": {
-    "width": 75,
-    "height": 75,
-    "z": 1730,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "q1yn",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder",
-    "id": "zqix",
-    "parent": "RedHolder2"
-  },
-  "7fxo": {
-    "width": 75,
-    "height": 75,
-    "z": 1732,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "yoet",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "id": "7fxo",
-    "parent": "RedHolder2"
-  },
-  "mcgv": {
-    "width": 75,
-    "height": 75,
-    "z": 1734,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "sax1",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "id": "mcgv",
-    "parent": "RedHolder2"
-  },
-  "00d4": {
-    "width": 75,
-    "height": 75,
-    "z": 1736,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "j57u",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder",
-    "id": "00d4",
-    "parent": "RedHolder2"
-  },
-  "bhok": {
-    "width": 75,
-    "height": 75,
-    "z": 1738,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
-      },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "hemp",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverParent": "RedHolder",
-    "id": "bhok",
-    "parent": "RedHolder2"
-  },
-  "f83w": {
-    "width": 75,
-    "height": 75,
-    "z": 1740,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
+        "func": "RECALL",
+        "holder": "tygq",
+        "owned": true
       },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "nwyg",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder",
-    "hoverParent": "RedHolder2",
-    "id": "f83w",
-    "parent": "RedHolder2"
-  },
-  "p4sl": {
-    "width": 75,
-    "height": 75,
-    "z": 1742,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
       {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
+        "func": "SHUFFLE",
+        "holder": "tygq"
       },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "tmg8",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "id": "p4sl",
-    "parent": "RedHolder2"
-  },
-  "6v49": {
-    "width": 75,
-    "height": 75,
-    "z": 1744,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
       {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
+        "func": "ROTATE",
+        "holder": "tygq",
+        "count": 999,
+        "angle": 0,
+        "mode": "set"
       },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "u7y9",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder1",
-    "id": "6v49",
-    "parent": "RedHolder1"
-  },
-  "nn7e": {
-    "width": 75,
-    "height": 75,
-    "z": 1746,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
       {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
+        "func": "FLIP",
+        "holder": "tygq",
+        "face": 0
       },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "1fms",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder",
-    "hoverParent": "RedHolder1",
-    "id": "nn7e",
-    "parent": "RedHolder1"
-  },
-  "n7f5": {
-    "width": 75,
-    "height": 75,
-    "z": 1748,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
       {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
+        "func": "RECALL",
+        "holder": "tcfd",
+        "owned": true
       },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "f7ot",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder1",
-    "id": "n7f5",
-    "parent": "RedHolder1"
-  },
-  "jgr2": {
-    "width": 75,
-    "height": 75,
-    "z": 1750,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
       {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
+        "func": "SHUFFLE",
+        "holder": "tcfd"
       },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "09m7",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "id": "jgr2",
-    "parent": "RedHolder1"
-  },
-  "5iv0": {
-    "width": 75,
-    "height": 75,
-    "z": 1752,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
       {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
+        "func": "ROTATE",
+        "holder": "tcfd",
+        "count": 999,
+        "angle": 0,
+        "mode": "set"
       },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "s01j",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder1",
-    "id": "5iv0",
-    "parent": "RedHolder1"
-  },
-  "4y38": {
-    "width": 75,
-    "height": 75,
-    "z": 1754,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
       {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
+        "func": "FLIP",
+        "holder": "tcfd",
+        "face": 0
       },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "bbtq",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder1",
-    "hoverParent": "RedHolder1",
-    "id": "4y38",
-    "parent": "RedHolder1"
-  },
-  "69nj": {
-    "width": 75,
-    "height": 75,
-    "z": 1756,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
       {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
+        "func": "MOVE",
+        "from": "tcfd",
+        "to": "lit4",
+        "count": 6
       },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "4yb0",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverParent": "RedHolder1",
-    "id": "69nj",
-    "parent": "RedHolder1"
-  },
-  "y7q9": {
-    "width": 75,
-    "height": 75,
-    "z": 1758,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
       {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
+        "func": "MOVE",
+        "from": "tcfd",
+        "to": "lit5",
+        "count": 6
       },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "8ft2",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder1",
-    "id": "y7q9",
-    "parent": "RedHolder1"
-  },
-  "3igv": {
-    "width": 75,
-    "height": 75,
-    "z": 1760,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
       {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
+        "func": "MOVE",
+        "from": "yljy",
+        "to": "yljy1",
+        "count": 5
       },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "fqtf",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder1",
-    "id": "3igv",
-    "parent": "RedHolder1"
-  },
-  "rcfe": {
-    "width": 75,
-    "height": 75,
-    "z": 1762,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
       {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
+        "func": "MOVE",
+        "from": "yljy",
+        "to": "yljy2",
+        "count": 5
       },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "dpj2",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder1",
-    "id": "rcfe",
-    "parent": "RedHolder1"
-  },
-  "a3yz": {
-    "width": 75,
-    "height": 75,
-    "z": 1764,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
       {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
+        "func": "MOVE",
+        "from": "yljy",
+        "to": "yljy5",
+        "count": 3
       },
       {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
+        "func": "MOVE",
+        "from": "yljy",
+        "to": "yljy6",
+        "count": 3
       }
     ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "m2n4",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder1",
-    "hoverParent": "RedHolder1",
-    "id": "a3yz",
-    "parent": "RedHolder1"
+    "x": 4,
+    "y": 873,
+    "z": 41,
+    "id": "0en4"
   },
-  "0dsx": {
-    "width": 75,
-    "height": 75,
-    "z": 1766,
-    "classes": "chip",
-    "color": "#1f5ca6",
-    "faces": [
-      {
-        "image": "i/game-pieces/2D/Checkers-2D.svg",
-        "crowned": false
+  "gmix6": {
+    "id": "gmix6",
+    "z": 2751,
+    "x": 787,
+    "y": 740,
+    "html": "🗑️",
+    "css": {
+      "default": {
+        "font-size": "20px"
       },
-      {
-        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-        "crowned": true
-      }
-    ],
-    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
-    "svgReplaces": {
-      "#primaryColor": "color",
-      "#secondaryColor": "secondaryColor",
-      "#borderColor": "borderColor",
-      "#borderWidth": "borderWidth"
-    },
-    "borderColor": "#000000",
-    "borderWidth": 1,
-    "chip": true,
-    "clonedFrom": "9tz9",
-    "crowned": true,
-    "secondaryColor": "#ffffff",
-    "activeFace": 1,
-    "dragging": "Guest46",
-    "hoverTarget": "RedHolder1",
-    "id": "0dsx",
-    "parent": "RedHolder1"
-  },
-  "s2y2": {
+      " p > img": {
+        "height": "8em",
+        "vertical-align": "middle"
+      }
+    },
+    "width": 20,
+    "height": 20,
+    "movable": false
+  },
+  "mx0y": {
+    "image": "/assets/1880001921_894394",
+    "movable": false,
+    "width": 1600,
+    "layer": -4,
+    "id": "mx0y",
+    "z": 7,
+    "x": 26,
+    "height": 1000,
+    "y": 10,
+    "movableInEdit": false
+  },
+  "o0sw": {
+    "type": "pile",
+    "parent": "tcfd",
+    "x": 4,
+    "y": 4,
+    "width": 115,
+    "height": 160,
+    "id": "o0sw"
+  },
+  "ef97": {
     "type": "pile",
     "parent": "tygq",
     "x": 4,
     "y": 4,
     "width": 115,
     "height": 160,
-    "id": "s2y2"
+    "id": "ef97"
+  },
+  "i81m": {
+    "width": 75,
+    "height": 75,
+    "z": 2765,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "5bb2",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "id": "i81m",
+    "parent": "RedHolder1"
+  },
+  "v5ko": {
+    "width": 75,
+    "height": 75,
+    "z": 2767,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "dragging": "Guest46",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "tgpq",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "hoverParent": "RedHolder",
+    "id": "v5ko",
+    "parent": "RedHolder1"
+  },
+  "x8cq": {
+    "width": 75,
+    "height": 75,
+    "z": 2769,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "dragging": "Guest46",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "bh1n",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "hoverTarget": "RedHolder",
+    "id": "x8cq",
+    "parent": "RedHolder1"
+  },
+  "21uw": {
+    "width": 75,
+    "height": 75,
+    "z": 2771,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "ps4x",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "id": "21uw",
+    "parent": "RedHolder1"
+  },
+  "0quj": {
+    "width": 75,
+    "height": 75,
+    "z": 2773,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "c2y3",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "dragging": "Guest46",
+    "hoverTarget": "RedHolder",
+    "id": "0quj",
+    "parent": "RedHolder1"
+  },
+  "c5vf": {
+    "width": 75,
+    "height": 75,
+    "z": 2775,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "s7ci",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "id": "c5vf",
+    "parent": "RedHolder1"
+  },
+  "2ow6": {
+    "width": 75,
+    "height": 75,
+    "z": 2777,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "tcxq",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "dragging": "Guest46",
+    "hoverTarget": "RedHolder",
+    "id": "2ow6",
+    "parent": "RedHolder1"
+  },
+  "8s92": {
+    "width": 75,
+    "height": 75,
+    "z": 2779,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "oerg",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "dragging": "Guest46",
+    "hoverParent": "RedHolder",
+    "activeFace": 1,
+    "id": "8s92",
+    "parent": "RedHolder1"
+  },
+  "4b9l": {
+    "width": 75,
+    "height": 75,
+    "z": 2781,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "bw2v",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "dragging": "Guest46",
+    "activeFace": 1,
+    "hoverTarget": "RedHolder",
+    "id": "4b9l",
+    "parent": "RedHolder1"
+  },
+  "35yt": {
+    "width": 75,
+    "height": 75,
+    "z": 2783,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "lhl2",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "hoverParent": "RedHolder",
+    "id": "35yt",
+    "parent": "RedHolder1"
+  },
+  "1dp5": {
+    "width": 75,
+    "height": 75,
+    "z": 2785,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "uyz2",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "hoverTarget": "RedHolder",
+    "id": "1dp5",
+    "parent": "RedHolder1"
+  },
+  "xqp2": {
+    "width": 75,
+    "height": 75,
+    "z": 2787,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "ckco",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "hoverTarget": "RedHolder",
+    "id": "xqp2",
+    "parent": "RedHolder1"
+  },
+  "dj6v": {
+    "width": 75,
+    "height": 75,
+    "z": 2789,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "1zol",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "hoverTarget": "RedHolder",
+    "hoverParent": "RedHolder",
+    "id": "dj6v",
+    "parent": "RedHolder1"
+  },
+  "4gqe": {
+    "width": 75,
+    "height": 75,
+    "z": 2791,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "elxx",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "hoverTarget": "RedHolder",
+    "id": "4gqe",
+    "parent": "RedHolder1"
+  },
+  "lomt": {
+    "width": 75,
+    "height": 75,
+    "z": 2793,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "1ssp",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "id": "lomt",
+    "parent": "RedHolder1"
+  },
+  "c709": {
+    "width": 75,
+    "height": 75,
+    "z": 2795,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "a2ob",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "id": "c709",
+    "parent": "RedHolder1"
+  },
+  "7t95": {
+    "width": 75,
+    "height": 75,
+    "z": 2797,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "ymvz",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "hoverTarget": "RedHolder",
+    "id": "7t95",
+    "parent": "RedHolder1"
+  },
+  "wsu8": {
+    "width": 75,
+    "height": 75,
+    "z": 2799,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "vy2p",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "hoverParent": "RedHolder",
+    "id": "wsu8",
+    "parent": "RedHolder1"
+  },
+  "6y2e": {
+    "width": 75,
+    "height": 75,
+    "z": 2801,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "d3qz",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "hoverTarget": "RedHolder1",
+    "id": "6y2e",
+    "parent": "RedHolder1"
+  },
+  "9otp": {
+    "width": 75,
+    "height": 75,
+    "z": 2803,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "n3kq",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "hoverTarget": "RedHolder",
+    "hoverParent": "RedHolder1",
+    "id": "9otp",
+    "parent": "RedHolder1"
+  },
+  "a7fc": {
+    "width": 75,
+    "height": 75,
+    "z": 2805,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "of0p",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "hoverTarget": "RedHolder1",
+    "id": "a7fc",
+    "parent": "RedHolder1"
+  },
+  "ng9h": {
+    "width": 75,
+    "height": 75,
+    "z": 2807,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "qzth",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "id": "ng9h",
+    "parent": "RedHolder1"
+  },
+  "mx9l": {
+    "width": 75,
+    "height": 75,
+    "z": 2809,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "eo7x",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "hoverTarget": "RedHolder1",
+    "id": "mx9l",
+    "parent": "RedHolder1"
+  },
+  "jbgx": {
+    "width": 75,
+    "height": 75,
+    "z": 2811,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "bu7s",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "hoverTarget": "RedHolder1",
+    "hoverParent": "RedHolder1",
+    "id": "jbgx",
+    "parent": "RedHolder1"
+  },
+  "v0y2": {
+    "width": 75,
+    "height": 75,
+    "z": 2813,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "wz09",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "hoverParent": "RedHolder1",
+    "id": "v0y2",
+    "parent": "RedHolder1"
+  },
+  "3gmn": {
+    "width": 75,
+    "height": 75,
+    "z": 2815,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "tu7j",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "hoverTarget": "RedHolder1",
+    "id": "3gmn",
+    "parent": "RedHolder1"
+  },
+  "oxey": {
+    "width": 75,
+    "height": 75,
+    "z": 2817,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "ko7u",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "hoverTarget": "RedHolder1",
+    "id": "oxey",
+    "parent": "RedHolder1"
+  },
+  "fhs8": {
+    "width": 75,
+    "height": 75,
+    "z": 2819,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "cztm",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "hoverTarget": "RedHolder1",
+    "id": "fhs8",
+    "parent": "RedHolder1"
+  },
+  "cu5c": {
+    "width": 75,
+    "height": 75,
+    "z": 2821,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "qgfs",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "hoverTarget": "RedHolder1",
+    "hoverParent": "RedHolder1",
+    "id": "cu5c",
+    "parent": "RedHolder1"
+  },
+  "4qld": {
+    "width": 75,
+    "height": 75,
+    "z": 2823,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "r9vb",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "hoverTarget": "RedHolder1",
+    "id": "4qld",
+    "parent": "RedHolder1"
+  },
+  "tzed": {
+    "width": 75,
+    "height": 75,
+    "z": 2825,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "oo2z",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "hoverTarget": "RedHolder1",
+    "hoverParent": "RedHolder1",
+    "id": "tzed",
+    "parent": "RedHolder1"
+  },
+  "bij1": {
+    "width": 75,
+    "height": 75,
+    "z": 2827,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "lalo",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "id": "bij1",
+    "parent": "RedHolder1"
+  },
+  "m2km": {
+    "width": 75,
+    "height": 75,
+    "z": 2829,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "diuz",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "hoverTarget": "RedHolder1",
+    "id": "m2km",
+    "parent": "RedHolder1"
+  },
+  "73q8": {
+    "width": 75,
+    "height": 75,
+    "z": 2831,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "xx84",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "id": "73q8",
+    "parent": "RedHolder1"
+  },
+  "4uu8": {
+    "width": 75,
+    "height": 75,
+    "z": 2833,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "zaq2",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "hoverParent": "RedHolder1",
+    "id": "4uu8",
+    "parent": "RedHolder1"
+  },
+  "vabr": {
+    "width": 75,
+    "height": 75,
+    "z": 2835,
+    "classes": "chip",
+    "color": "#1f5ca6",
+    "faces": [
+      {
+        "image": "i/game-pieces/2D/Checkers-2D.svg",
+        "crowned": false
+      },
+      {
+        "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+        "crowned": true
+      }
+    ],
+    "image": "i/game-pieces/2D/Crowned-Checkers-2D.svg",
+    "svgReplaces": {
+      "#primaryColor": "color",
+      "#secondaryColor": "secondaryColor",
+      "#borderColor": "borderColor",
+      "#borderWidth": "borderWidth"
+    },
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "chip": true,
+    "clonedFrom": "onmr",
+    "crowned": true,
+    "secondaryColor": "#ffffff",
+    "activeFace": 1,
+    "dragging": "Guest46",
+    "id": "vabr",
+    "parent": "RedHolder1"
   }
 }
