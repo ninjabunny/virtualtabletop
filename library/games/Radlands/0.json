@@ -2363,7 +2363,7 @@
       "mode": "",
       "skill": "",
       "description": "",
-      "variantImage": "",
+      "variantImage": "/assets/1880001921_894394",
       "variant": "",
       "language": "",
       "players": "",
@@ -2766,7 +2766,10 @@
     "x": 68,
     "id": "lit4",
     "z": 39,
-    "y": 190
+    "y": 190,
+    "player": "Guest46",
+    "color": "#f00094",
+    "index": 2
   },
   "lit4C": {
     "id": "lit4C",
@@ -2819,10 +2822,11 @@
   },
   "lit5": {
     "type": "seat",
-    "x": 1379,
-    "y": 185,
+    "x": 1380,
+    "y": 188,
     "id": "lit5",
-    "z": 34
+    "z": 46,
+    "index": 2
   },
   "lit5C": {
     "id": "lit5C",
@@ -2908,6 +2912,9 @@
       },
       {
         "func": "DELETE"
+      },
+      {
+        "func": "TURN"
       }
     ],
     "x": 760,
