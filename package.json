@@ -5,6 +5,7 @@
   "main": "server.mjs",
   "type": "module",
   "scripts": {
+    "preinstall": "npm install",
     "clean": "rm -rf coverage",
     "clobber": "npm clean && rm -rf save",
     "debug": "nodemon -e js,mjs,css,html,json --ignore save/ --ignore coverage/ --ignore tests/ --inspect server.mjs",
