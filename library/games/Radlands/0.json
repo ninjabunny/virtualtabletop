@@ -2363,10 +2363,6 @@
       "mode": "",
       "skill": "",
       "description": "",
-      "variantImage": "/assets/1880001921_894394",
-      "variant": "",
-      "language": "",
-      "players": "",
       "similarImage": "",
       "similarName": "",
       "year": "",
@@ -2376,7 +2372,11 @@
       "rules": "",
       "ruleText": "",
       "helpText": "",
-      "attribution": ""
+      "attribution": "",
+      "players": "",
+      "language": "",
+      "variant": "",
+      "variantImage": "/assets/1880001921_894394"
     }
   },
   "tygq": {
